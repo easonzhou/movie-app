@@ -6,7 +6,7 @@ class OMDBQueryForm extends Component {
         super(props)
         this.state = {
             baseURL: 'https://www.omdbapi.com/?',
-            apikey: 'apikey=' + process.env.REACT_APP_API_KEY,
+            apikey: 'apikey=' + '69418ace',
             query: '&t=',
             movieTitle: '',
             searchURL: ''
