@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import OMDBQueryForm from './OMDBQueryForm'
+import OMDBQueryForm from './components/OMDBQueryForm'
 
 function App() {
   return (
