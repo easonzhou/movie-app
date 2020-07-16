@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import MovieInfo from './MovieInfo'
 
+
 class OMDBQueryForm extends Component {
     constructor(props) {
         super(props)
